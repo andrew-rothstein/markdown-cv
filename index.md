@@ -20,6 +20,7 @@ Population Genomics & Disease Ecology
 ## Education
 `2016-`
 __Department of Environmental Science, Policy and Management, UC Berkeley.__
+- Doctoral Program
 - Advisor: Dr. Erica Bree Rosenblum
 - Dissertation: Genomic dynamics in an endangered amphibian host and fungal pathogen system
 
