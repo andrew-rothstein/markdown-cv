@@ -39,16 +39,16 @@ __Rubenstein School of the Environment and Natural Resources , University of Ver
 <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=rvWMnDgAAAAJ&hl=en">Google Scholar</a>
 
 `2017`
-Byrne, A.Q., __Rothstein, A.P.__, Poorten, T.J., Erens, J., Settles, M.L., & Rosenblum, E.B. 2017. Unlocking the story in the swab: A new genotyping assay for the amphibian chytrid fungus Batrachochytrium dendrobatidis. Molecular Ecology Resources. doi:10.1111/1755-0998.12675.
+Byrne, A.Q., __Rothstein, A.P.__, Poorten, T.J., Erens, J., Settles, M.L., & Rosenblum, E.B. 2017. Unlocking the story in the swab: A new genotyping assay for the amphibian chytrid fungus *Batrachochytrium dendrobatidis*. *Molecular Ecology Resources*. doi:10.1111/1755-0998.12675.
 
-Des Roches, S., Sollmann, R., Calhoun, K., __Rothstein, A.P.__. & Rosenblum, E.B. 2017. Survival by genotype: patterns at Mc1r are not black and white at the White Sands ecotone. Molecular Ecology. doi:10.1111/mec.13894
+Des Roches, S., Sollmann, R., Calhoun, K., __Rothstein, A.P.__. & Rosenblum, E.B. 2017. Survival by genotype: patterns at Mc1r are not black and white at the White Sands ecotone. *Molecular Ecology*. doi:10.1111/mec.13894
 
 `2016`
 __Rothstein, A.P.__, McLaughlin, R., Acevedo-Gutiérrez, A. & Schwarz, D. 2016. WisePair: a computer program for 
-individual matching in genetic tracking studies. Molecular Ecology Resources. doi:10.1111/1755-0998.12590
+individual matching in genetic tracking studies. *Molecular Ecology Resources*. doi:10.1111/1755-0998.12590
 
 `2015`
-__Rothstein, A.P.__ 2015. Non-invasive genetic tracking of harbor seals (Phoca vitulina). M.Sc. thesis, Department of Biology, Western Washington University, Bellingham, WA.
+__Rothstein, A.P.__ 2015. Non-invasive genetic tracking of harbor seals (*Phoca vitulina*). M.Sc. thesis, Department of Biology, Western Washington University, Bellingham, WA.
 
 ## Grants & Awards
 `2019`
@@ -77,7 +77,7 @@ Rubenstein School of the Environment and Natural Resources Dean’s List
 
 ## Presentations
 
-__Population genetics of endangered mountain yellow-legged frogs (Rana muscosa and Rana sierrae) in Sequoia-Kings National Park__
+__Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa* and *Rana sierrae*) in Sequoia-Kings National Park__
 
 *__Talk__*
 
@@ -95,7 +95,7 @@ Mountain Yellow Legged Frog Interagency Meeting (Burlingame, CA)
 `2016`
 Sequoia and Kings Canyon National Parks Science Symposium (Three Rivers, CA)
 
-__Non-invasive genetic tracking of Harbor Seals (Phoca vitulina)__
+__Non-invasive genetic tracking of Harbor Seals (*Phoca vitulina*)__
 
 *__Talk__*
 
