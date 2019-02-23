@@ -12,8 +12,6 @@ PhD Candidate, ESPM UC Berkeley
 |
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/arothste">arothste</a>
 </div>
-|
-(206)295-9766
 
 ## Research interests
 
@@ -154,7 +152,7 @@ __Co-coordinator of 18th NW Student Meeting of The Soc.  of Marine Mammalogy__
 
 `2012-`
 __Mentee of undergraduate research assistants__							         
--Total of fourteen undergraduates during Master’s and PhD programs in both field, lab, and coding work
+Total of fourteen undergraduates during Master’s and PhD programs in both field, lab, and coding work
 
 ## Work Experience
 
