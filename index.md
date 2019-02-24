@@ -19,7 +19,7 @@ University of California, Berkeley
 
 ## Research interests
 
-Population Genomics & Disease Ecology
+Population Genomics, Disease Ecology, & Conservation Biology
 
 ## Education
 `2016-`
