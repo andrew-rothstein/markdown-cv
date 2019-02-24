@@ -121,7 +121,7 @@ WWU Graduate Research Conference (Bellingham, WA)
 `Fall 2019`
 __Graduate Student Instructor__
 
-*Lecture and Lab Lead* Data Science in Global Change Biology (ESPM157)
+*Lecture & Lab Lead* Data Science in Global Change Biology (ESPM157)
 
 `Spring 2018`
 __Graduate Student Instructor__
@@ -131,7 +131,7 @@ __Graduate Student Instructor__
 `2012-2014`
 __Graduate Student Instructor__
 
-*Lecture & Lab* Introduction to Cell and Molecular Biology (BIO205)
+*Lecture & Lab Lead* Introduction to Cell and Molecular Biology (BIO205)
 
 ## Outreach & Mentoring
 
