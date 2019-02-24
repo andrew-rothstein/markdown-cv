@@ -3,7 +3,12 @@ layout: cv
 title: Andy Rothstein's CV
 ---
 # Andrew Peter Rothstein
-PhD Candidate, ESPM UC Berkeley
+
+PhD Candidate
+
+Department of Environmental Science, Policy and Management
+
+University of California, Berkeley
 
 <div id="webaddress">
 <a href="mailto:andrew.rothstein@berkeley.edu">andrew.rothstein@berkeley.edu</a>
