@@ -109,7 +109,7 @@ Mountain Yellow Legged Frog Interagency Meeting (Burlingame, CA)
 
 `2016`
 Sequoia and Kings Canyon National Parks Science Symposium (Three Rivers, CA)
-\
+&nbsp;
 __Non-invasive genetic tracking of Harbor Seals (*Phoca vitulina*)__
 
 ### Talk
