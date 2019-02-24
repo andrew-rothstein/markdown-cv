@@ -25,7 +25,6 @@ Population Genomics, Disease Ecology, & Conservation Biology
 
 `2016-`
 ### Ph.D
-
 __Department of Environmental Science, Policy and Management, UC Berkeley.__
 
 Advisor: Dr. Erica Bree Rosenblum
@@ -33,18 +32,18 @@ Advisor: Dr. Erica Bree Rosenblum
 Dissertation: Genomic dynamics in an endangered amphibian host and fungal pathogen system
 
 `2012-2015`
-### M.Sc.
-
+### M.Sc
 __Department of Biology, Western Washington University__
 
-- Advisor: Dr. Dietmar Schwarz 
-- Thesis: Non-invasive genetic tracking of harbor seals (Phoca vitulina)
+Advisor: Dr. Dietmar Schwarz 
+
+Thesis: Non-invasive genetic tracking of harbor seals (Phoca vitulina)
 
 `2007-2011`
 ### B.S.
-
 __Rubenstein School of the Environment and Natural Resources , University of Vermont__
-- Major: Natural Resources - Resource Ecology
+
+Major: Natural Resources - Resource Ecology
 
 ## Publications
 
