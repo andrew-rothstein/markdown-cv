@@ -152,22 +152,27 @@ __Graduate Student Instructor__
 
 `2016-`
 __Bay Area Science in Schools Volunteer__
--Volunteer outreach program in East Bay, CA with elementary schools consisting of hour-long, hands-on presentations that align with current elementary science standards
+
+Volunteer outreach program in East Bay, CA with elementary schools consisting of hour-long, hands-on presentations that align with current elementary science standards
 
 `2014-2015`
 __Schwarz Lab Science Outreach Lead Coordinator__
--Developed educational activity with 5th grade students at Happy Valley Elementary, Bellingham, WA that highlighted the methods and goals of my graduate research at Western Washington University. Coordinated activities and assigned roles for undergraduates and other graduate students Schwarz lab. Lead two one hour sessions that included teaching topics of sampling design, data analysis, and ecological system dynamics
+
+Developed educational activity with 5th grade students at Happy Valley Elementary, Bellingham, WA that highlighted the methods and goals of my graduate research at Western Washington University. Coordinated activities and assigned roles for undergraduates and other graduate students Schwarz lab. Lead two one hour sessions that included teaching topics of sampling design, data analysis, and ecological system dynamics
 
 `2013-2014`
 __WWU Biology Graduate Program Committee Member__
--Elected position to represent current graduate students for faculty members
+
+Elected position to represent current graduate students for faculty members
 
 `2013-2014`
 __Co-coordinator of 18th NW Student Meeting of The Soc.  of Marine Mammalogy__
--Responsibilities include planning conference, inviting keynote speaker, and delegating associated tasks to undergraduates in Dr.  Acevedo-Gutiérrez lab
+
+Responsibilities include planning conference, inviting keynote speaker, and delegating associated tasks to undergraduates in Dr.  Acevedo-Gutiérrez lab
 
 `2012-`
-__Mentee of undergraduate research assistants__							         
+__Mentee of undergraduate research assistants__		
+
 Total of fourteen undergraduates during Master’s and PhD programs in both field, lab, and coding work
 
 ## Work Experience
