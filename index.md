@@ -25,7 +25,6 @@ __Population Genomics, Disease Ecology, & Conservation Biology__
 
 
 ### Ph.D
-
 `2016-`
 __Department of Environmental Science, Policy and Management, UC Berkeley.__
 
@@ -34,7 +33,6 @@ Advisor: Dr. Erica Bree Rosenblum
 Dissertation: Genomic dynamics in an endangered amphibian host and fungal pathogen system
 
 ### M.Sc
-
 `2012-2015`
 __Department of Biology, Western Washington University__
 
@@ -43,7 +41,6 @@ Advisor: Dr. Dietmar Schwarz
 Thesis: Non-invasive genetic tracking of harbor seals (*Phoca vitulina*)
 
 ### B.S.
-
 `2007-2011`
 __Rubenstein School of the Environment and Natural Resources , University of Vermont__
 
@@ -92,10 +89,8 @@ Rubenstein School of the Environment and Natural Resources Dean’s List
 
 ## Presentations
 
-__Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa* and *Rana sierrae*) in Sequoia-Kings NP__
-
 ### Talk
-
+__Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa* and *Rana sierrae*) in Sequoia-Kings NP__
 `2018`
 103rd Ecological Scoiety of America Meeting (New Orleans, LA)
 
@@ -110,11 +105,8 @@ Mountain Yellow Legged Frog Interagency Meeting (Burlingame, CA)
 `2016`
 Sequoia and Kings Canyon National Parks Science Symposium (Three Rivers, CA)&nbsp;
 
-&nbsp;
-&nbsp;__Non-invasive genetic tracking of Harbor Seals (*Phoca vitulina*)__
-
 ### Talk
-
+__Non-invasive genetic tracking of Harbor Seals (*Phoca vitulina*)__
 `2015`
 Thesis seminar,  WWU Department of Biology (Bellingham, WA)
 
