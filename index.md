@@ -3,9 +3,7 @@ layout: cv
 title: Andy Rothstein's CV
 ---
 # Andrew Peter Rothstein
-Ph.D Candidate
-
-Department of Environmental Science, Policy and Management
+Ph.D Candidate, Department of Environmental Science, Policy and Management
 
 University of California, Berkeley
 
