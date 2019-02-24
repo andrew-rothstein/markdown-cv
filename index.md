@@ -187,6 +187,10 @@ Nitrogen deposition’s influence on HWA infestation spread rate with Dr. Jennif
 
 Independent study on the effects of temperature and nitrogen deposition in spread of Hemlock Wooly Adelgid throughout the Northeastern US
 
+## References
+
+Available upon request
+
 <!-- ### Footer
 
 Last updated: Feb 2019 -->
