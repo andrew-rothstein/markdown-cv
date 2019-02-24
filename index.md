@@ -3,7 +3,7 @@ layout: cv
 title: Andy Rothstein's CV
 ---
 # Andrew Peter Rothstein
-PhD Candidate
+Ph.D Candidate
 
 Department of Environmental Science, Policy and Management
 
