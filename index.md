@@ -19,7 +19,7 @@ University of California, Berkeley
 
 ## Research interests
 
-Population Genomics, Disease Ecology, & Conservation Biology
+__Population Genomics, Disease Ecology, & Conservation Biology__
 
 ## Education
 
@@ -110,6 +110,7 @@ Mountain Yellow Legged Frog Interagency Meeting (Burlingame, CA)
 `2016`
 Sequoia and Kings Canyon National Parks Science Symposium (Three Rivers, CA)
 
+###
 
 __Non-invasive genetic tracking of Harbor Seals (*Phoca vitulina*)__
 
