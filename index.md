@@ -77,7 +77,7 @@ Rubenstein School of the Environment and Natural Resources Dean’s List
 
 ## Presentations
 
-__Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa* and *Rana sierrae*) in Sequoia-Kings National Park__
+__Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa* and *Rana sierrae*) in Sequoia-Kings NP__
 
 *__Talk__*
 
