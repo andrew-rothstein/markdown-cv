@@ -83,7 +83,7 @@ Rubenstein School of the Environment and Natural Resources Dean’s List
 
 __Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa* and *Rana sierrae*) in Sequoia-Kings NP__
 
-*__Talk__*
+### Talk
 
 `2018`
 103rd Ecological Scoiety of America Meeting, New Orleans, LA
@@ -94,14 +94,14 @@ Mountain Yellow Legged Frog Interagency Meeting (Sacramento, CA)
 `2016`
 Mountain Yellow Legged Frog Interagency Meeting (Burlingame, CA) 
 
-*__Poster__*
+### Poster
 
 `2016`
 Sequoia and Kings Canyon National Parks Science Symposium (Three Rivers, CA)
 
 __Non-invasive genetic tracking of Harbor Seals (*Phoca vitulina*)__
 
-*__Talk__*
+### Talk
 
 `2015`
 Thesis seminar,  WWU Department of Biology (Bellingham, WA)
@@ -112,7 +112,7 @@ WWU Graduate Research Conference (Bellingham, WA)
 `2014`
 18th Northwest Student Chapter Meeting of The Society of Marine Mammalogy (Bellingham, WA)
 
-*__Poster__*
+### Poster
 
 `2014`
 2nd  North  American  Congress for Conservation Biology meeting (Missoula, MT)
