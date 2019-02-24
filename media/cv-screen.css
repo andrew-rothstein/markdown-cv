@@ -74,7 +74,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;
-	color: #000000;
+	color: #aaa;
 }
 
 p code {
@@ -112,7 +112,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #000000;
+	color: #fd9544;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -126,7 +126,7 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	color: #000000;
+	color: #1D49A0;
 	font-style: italic;
 	font-size: 110%;
 	line-height: 2em;
@@ -136,7 +136,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	/* color: #000000; */
+	/* color: #a00; */
 	color: #1D49A0;
 	margin-top: 2em;
 	position: relative;
@@ -146,7 +146,7 @@ h2 {
 }
 
 h3 {
-	color: #000000;
+	color: #F07415;
 	font-size: 1em;
 	line-height: 2em;
 	position: relative;
@@ -161,14 +161,14 @@ a {
 }
 
 a:hover {
-	color:#000000
+	color:#39f
 }
 
 #webaddress {
 	margin-top: 0em;
 	position: relative;
   margin-left: 25%;
-	color: #000000;
+	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
