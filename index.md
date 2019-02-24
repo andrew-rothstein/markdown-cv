@@ -88,7 +88,7 @@ Best Student Poster Presentation at 17th NW Student Ch. Marine Mammalogy
 Rubenstein School of the Environment and Natural Resources Dean’s List				          
 
 ## Presentations
-Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa* and *Rana sierrae*) in Sequoia-Kings NP
+__Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa* and *Rana sierrae*) in Sequoia-Kings NP__
 
 ### Talks
 `2018`
@@ -105,7 +105,7 @@ Mountain Yellow Legged Frog Interagency Meeting (Burlingame, CA)
 `2016`
 Sequoia and Kings Canyon National Parks Science Symposium (Three Rivers, CA)<br/><br/>
 
-Non-invasive genetic tracking of Harbor Seals (*Phoca vitulina*)
+__Non-invasive genetic tracking of Harbor Seals (*Phoca vitulina*)__
 
 ### Talks
 
