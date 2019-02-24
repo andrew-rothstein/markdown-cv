@@ -133,17 +133,17 @@ WWU Graduate Research Conference (Bellingham, WA)
 
 ## Teaching
 
-`Fall 2019`
+`2019`
 __Graduate Student Instructor__
 
-*Lecture & Lab Lead* Data Science in Global Change Biology (ESPM157)
+*Lecture & Lab Lead* Data Science in Global Change Biology - Fall Semester ( ESPM157)
 
-`Spring 2018`
+`2018`
 __Graduate Student Instructor__
 
-*Discussion Lead* Global Change Biology (ESPM152)
+*Discussion Lead* Global Change Biology - Spring Semester (ESPM152)
 
-`Fall 2012-Spring 2014`
+`2012-2014`
 __Graduate Student Instructor__
 
 *Lecture & Lab Lead* Introduction to Cell and Molecular Biology (BIO205)
