@@ -40,7 +40,7 @@ __Department of Biology, Western Washington University__
 
 Advisor: Dr. Dietmar Schwarz 
 
-Thesis: Non-invasive genetic tracking of harbor seals (Phoca vitulina)
+Thesis: Non-invasive genetic tracking of harbor seals (*Phoca vitulina*)
 
 ### B.S.
 
@@ -97,7 +97,7 @@ __Population genetics of endangered mountain yellow-legged frogs (*Rana muscosa*
 ### Talk
 
 `2018`
-103rd Ecological Scoiety of America Meeting, New Orleans, LA
+103rd Ecological Scoiety of America Meeting (New Orleans, LA)
 
 `2017`
 Mountain Yellow Legged Frog Interagency Meeting (Sacramento, CA)
@@ -136,7 +136,7 @@ WWU Graduate Research Conference (Bellingham, WA)
 `2019`
 __Graduate Student Instructor__
 
-*Lecture & Lab Lead* Data Science in Global Change Biology - Fall Semester ( ESPM157)
+*Lecture & Lab Lead* Data Science in Global Change Biology - Fall Semester (ESPM157)
 
 `2018`
 __Graduate Student Instructor__
