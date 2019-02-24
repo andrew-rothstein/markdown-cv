@@ -12,7 +12,7 @@ University of California, Berkeley
 <div id="webaddress">
 <a href="mailto:andrew.rothstein@berkeley.edu">andrew.rothstein@berkeley.edu</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/andrew-rothstein">arothste24</a>
+<i class="fa fa-github"></i> <a href="http://github.com/andrew-rothstein">andrew-rothstein</a>
 |
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/arothste">arothste</a>
 </div>
